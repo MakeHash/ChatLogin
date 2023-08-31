@@ -1,0 +1,10 @@
+﻿  Client.cpp
+C:\Users\Dima\source\repos\Chat(Client)\Chat(Client)\entranceC.h(17,25): warning C4267: инициализация: преобразование из "size_t" в "UINT"; возможна потеря данных
+C:\Users\Dima\source\repos\Chat(Client)\Chat(Client)\entranceC.h(28,29): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\Dima\source\repos\Chat(Client)\Chat(Client)\entranceC.h(28,29): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\Users\Dima\source\repos\Chat(Client)\Chat(Client)\entranceC.h(45,25): warning C4267: инициализация: преобразование из "size_t" в "UINT"; возможна потеря данных
+C:\Users\Dima\source\repos\Chat(Client)\Chat(Client)\entranceC.h(53,26): warning C4267: инициализация: преобразование из "size_t" в "UINT"; возможна потеря данных
+C:\Users\Dima\source\repos\Chat(Client)\Chat(Client)\entranceC.h(65,25): warning C4267: инициализация: преобразование из "size_t" в "UINT"; возможна потеря данных
+C:\Users\Dima\source\repos\Chat(Client)\Chat(Client)\entranceC.h(95,29): warning C4267: инициализация: преобразование из "size_t" в "UINT"; возможна потеря данных
+C:\Users\Dima\source\repos\Chat(Client)\Chat(Client)\entranceC.h(137): warning C4715: entranceC::LogIn: значение возвращается не при всех путях выполнения
+  Chat(Client).vcxproj -> C:\Users\Dima\source\repos\Chat(Client)\x64\Debug\Chat(Client).exe

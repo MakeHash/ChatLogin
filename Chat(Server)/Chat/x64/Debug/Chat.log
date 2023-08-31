@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\Dima\source\repos\Chat\Chat\entranceS.h(202,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dima\source\repos\Chat\Chat\Server.cpp(78,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Chat.vcxproj -> C:\Users\Dima\source\repos\Chat\x64\Debug\Chat.exe
